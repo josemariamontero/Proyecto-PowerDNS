@@ -1,2 +1,2 @@
 # Proyecto-PowerDNS
-Repositorio para proyecto intengrado 
+Repositorio para proyecto integrado 
